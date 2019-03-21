@@ -1,0 +1,192 @@
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-01-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "5000.0"
+"interest" : "20.833334"
+"principal" : "197.91666"
+"remainingOutstandingPrincipal" : "4802.0835"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-02-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "4802.0835"
+"interest" : "20.00868"
+"principal" : "198.7413"
+"remainingOutstandingPrincipal" : "4603.3423"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-03-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "4603.3423"
+"interest" : "19.180593"
+"principal" : "199.5694"
+"remainingOutstandingPrincipal" : "4403.773"
+},
+{
+"borrowerPaymentAmount:" : "218.75"
+"Date" : "2018-04-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "4403.773"
+"interest" : "18.349052"
+"principal" : "200.40094"
+"remainingOutstandingPrincipal" : "4203.372"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-05-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "4203.372"
+"interest" : "17.51405"
+"principal" : "201.23593"
+"remainingOutstandingPrincipal" : "4002.1362"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-06-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "4002.1362"
+"interest" : "16.675568"
+"principal" : "202.07442"
+"remainingOutstandingPrincipal" : "3800.0618"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-07-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "3800.0618"
+"interest" : "15.833591"
+"principal" : "202.9164"
+"remainingOutstandingPrincipal" : "3597.1453"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-08-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "3597.1453"
+"interest" : "14.988105"
+"principal" : "203.76189"
+"remainingOutstandingPrincipal" : "3393.3833"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-09-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "3393.3833"
+"interest" : "14.139098"
+"principal" : "204.61089"
+"remainingOutstandingPrincipal" : "3188.7725"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-10-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "3188.7725"
+"interest" : "13.286551"
+"principal" : "205.46344"
+"remainingOutstandingPrincipal" : "2983.309"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-11-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "2983.309"
+"interest" : "12.430455"
+"principal" : "206.31953"
+"remainingOutstandingPrincipal" : "2776.9895"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2018-12-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "2776.9895"
+"interest" : "11.57079"
+"principal" : "207.1792"
+"remainingOutstandingPrincipal" : "2569.8103"
+},
+{
+"borrowerPaymentAmount:" : "218.75"
+"Date" : "2019-01-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "2569.8103"
+"interest" : "10.707542"
+"principal" : "208.04245"
+"remainingOutstandingPrincipal" : "2361.7678"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-02-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "2361.7678"
+"interest" : "9.840699"
+"principal" : "208.90929"
+"remainingOutstandingPrincipal" : "2152.8586"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-03-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "2152.8586"
+"interest" : "8.970244"
+"principal" : "209.77974"
+"remainingOutstandingPrincipal" : "1943.0789"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-04-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "1943.0789"
+"interest" : "8.096162"
+"principal" : "210.65382"
+"remainingOutstandingPrincipal" : "1732.425"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-05-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "1732.425"
+"interest" : "7.218438"
+"principal" : "211.53154"
+"remainingOutstandingPrincipal" : "1520.8936"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-06-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "1520.8936"
+"interest" : "6.3370566"
+"principal" : "212.41293"
+"remainingOutstandingPrincipal" : "1308.4806"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-07-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "1308.4806"
+"interest" : "5.4520025"
+"principal" : "213.29799"
+"remainingOutstandingPrincipal" : "1095.1826"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-08-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "1095.1826"
+"interest" : "4.563261"
+"principal" : "214.18672"
+"remainingOutstandingPrincipal" : "880.9959"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-09-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "880.9959"
+"interest" : "3.6708164"
+"principal" : "215.07916"
+"remainingOutstandingPrincipal" : "665.91675"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-10-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "665.91675"
+"interest" : "2.7746532"
+"principal" : "215.97533"
+"remainingOutstandingPrincipal" : "449.9414"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-11-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "449.9414"
+"interest" : "1.8747559"
+"principal" : "216.87523"
+"remainingOutstandingPrincipal" : "233.06618"
+},
+{
+"borrowerPaymentAmount:" : "218.74998"
+"Date" : "2019-12-01T00:00:00.000Z"
+"initialOutstandingPrincipal" : "233.06618"
+"interest" : "0.9711091"
+"principal" : "217.77887"
+"remainingOutstandingPrincipal" : "15.287308"
+}
